@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 480;
+    height: 500;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+section{
+    width: 1180px;
+    height: auto;
+    position: absolute;
+    background-color: grey;
+    margin-top: 350px;
+    padding-bottom: 20px;
+    
+}
+
+#search{
+    justify-content:center;
+    align-items:center;      
+    flex-direction: row;
+    align-items:flex-end
+    position: relative;
+    
+    
+
+}
+
+#divleft{
+    width: 220px;
+    height: 100px;
+    background-color: gray;
+    position: absolute;
+    margin-top: 420px;
+    
+    
+}
+
+#div-middle{
+    width: 200px;
+    height: 100px;
+    background-color: wheat;
+    position: absolute;
+    margin-top: 420px;
+    margin-left: 240px;
+    
+    
+    
+}
+#deneme{
+    margin-left: 350px;
+}
+
+
+#div-right{
+    width: 730px;
+    height: 100px;
+    background-color: gray;
+    position: absolute;
+    margin-top: 420px;
+    margin-left: 450px;
+  
+}
+ul{
+    align-items: center;
+    text-decoration: none;
+    list-style: none;
+}
+
+li{
+    text-decoration: none;
+    text-align: center;
+    padding: 5px;
+    padding-left: 0px;
+    padding-right: 30px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+
+
+.lefthref{
+    align-items: center;
+    padding-left: 3em;
+    padding-bottom: 3em;
+
+    
+}  
+
+main{
+    position: absolute;
+    
+    
+}
+p{
+    width: 17em;
+    position: absolute;
+    margin-top: 700px ;
+    margin-left: 500px;
+}
+#google{
+    
+    width: 17em;
+    position: absolute;
+    
+    margin-top: 330px;
+    margin-left: 350px;
+}
+#special{
+    position: absolute;
+    margin-top: 25em ;
+    margin-left: 3em;
+    
+}
+
+#get{
+    position:absolute;
+    margin-top: 25em;
+    margin-left: 30em;
+}
+main{
+    width: %100;
+
+    padding-left: 50px;
+    
+}
+
+    
+}
+#subs{
+    margin-top: 2px;
+    margin-left: 27em;
+    margin-right: 8em;
+
+}
+#mail{
+    margin-top: 2em;
+    margin-right: 2em;
+}
+#archive{
+    width: 1em;
+    margin-top: 2em;
+    margin-right: 3em;
+    margin-left: 27em;
+    margin-bottom: 3em;
+
+}
